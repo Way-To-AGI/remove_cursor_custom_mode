@@ -1,0 +1,2 @@
+# remove_cursor_custom_mode
+remove_cursor_custom_mode shell
